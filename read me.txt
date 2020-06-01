@@ -1,0 +1,6 @@
+ceate database name "project_mls"
+project_mls.sql was stored in database folder
+
+admin user
+username: admin
+password: admin
