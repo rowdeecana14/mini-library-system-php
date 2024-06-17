@@ -10,7 +10,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 -->
 <html lang="en">
 <head>
-  <title>Overdue book | MLS</title>
+  <title>Overdue book | LMS</title>
  <?php
     include '../include/header.php';
   ?>

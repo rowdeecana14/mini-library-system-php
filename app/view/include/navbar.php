@@ -4,15 +4,15 @@
     <li class="nav-item">
       <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
     </li>
-    <li class="nav-item d-none d-sm-inline-block">
-      <a class="nav-link nav-title">MINI LIBRARY SYSTEM</a>
-    </li>
+    <!-- <li class="nav-item d-none d-sm-inline-block">
+      <a class="nav-link nav-title">LIBRARY MANAGEMENT SYSTEM</a>
+    </li> -->
   </ul>
 
 
     <ul class="order-1 order-md-3 navbar-nav navbar-no-expand ml-auto">
         <!-- Messages Dropdown Menu -->
-        <li class="nav-item dropdown" style="background-color: rgba(0, 0, 0, 0.2);">
+        <li class="nav-item dropdown" style="background-color: rgba(0, 0, 0, 0.2); cursor: pointer;">
           <a class="nav-link" data-toggle="dropdown" href="#" aria-expanded="false">
             <span class="user-info">
               <label id="fullname"><i class="fa fa-user"></i> Administrator <span class=" fa fa-angle-down"> </span></label>

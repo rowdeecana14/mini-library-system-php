@@ -10,7 +10,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 -->
 <html lang="en">
 <head>
-  <title>Rent request | MLS</title>
+  <title>Rent request | LMS</title>
  <?php
     include '../include/header.php';
   ?>

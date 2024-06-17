@@ -16,8 +16,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Rent book | MLS</title>
-  <link rel="shortcut icon" href="../../../img/app_logo.png">
+  <title>Rent book | LMS</title>
+  <link rel="shortcut icon" href="../../../img/lms-sm.png">
 
   <!-- Font Awesome -->
   <link rel="stylesheet" href="../../../template/plugins/font-awesome/css/font-awesome.min.css">
@@ -37,10 +37,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand-md navbar-dark navbar-cyan">
     <div class="container">
-      <a href="index.php" class="navbar-brand">
-        <img src="../../../img/app_logo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
-             style="opacity: .8">
-        <span class="brand-text font-weight-light">Mini Library System</span>
+      <a href="../" class="navbar-brand">
+      <img src="../../../img/lms-sm.png" alt="AdminLTE Logo" class="brand-image"
+             >
+        <span class="brand-text font-weight-light">Library Management System</span>
       </a>
       
       <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -342,7 +342,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
       Version 1.0
     </div>
     <!-- Default to the left -->
-    <strong class="ml-5">Copyright &copy; 2019-2020 <a href="">MINI LIBRARY SYSTEM</a>.</strong> All rights reserved.
+    <strong class="ml-5">Copyright &copy; 2019-2020 <a href="">LIBRARY MANAGEMENT SYSTEM</a>.</strong> All rights reserved.
   </footer>
 </div>
 <!-- ./wrapper -->

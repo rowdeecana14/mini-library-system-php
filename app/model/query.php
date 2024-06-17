@@ -9,7 +9,7 @@
         protected $server_name = "localhost";
         protected $user_name = "root";
         protected $password = "";
-        protected $db_name = "project_mls";
+        protected $db_name = "mls";
         protected $db_connect = null;
         private $query = null;
         private $sql = "";

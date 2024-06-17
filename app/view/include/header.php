@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- Tell the browser to be responsive to screen width -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="../../../img/app_logo.png">
+<link rel="shortcut icon" href="../../../img/lms-sm.png">
 <!-- Font Awesome -->
 <link rel="stylesheet" href="../../../template/plugins/font-awesome/css/font-awesome.min.css">
 <!-- icheck bootstrap -->
